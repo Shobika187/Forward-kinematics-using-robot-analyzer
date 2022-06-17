@@ -45,6 +45,9 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ### SIMULATION 
 
+![Screenshot (236)](https://user-images.githubusercontent.com/94508142/174304065-3857360b-672c-4d7b-9388-f8e96a8dbba2.png)
+![Screenshot (240)](https://user-images.githubusercontent.com/94508142/174304088-278d40c7-fc75-47e7-8c37-24cc232affa4.png)
+
 
 
  
@@ -56,6 +59,13 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  ### PLOT 
 
 ![Screenshot (235)](https://user-images.githubusercontent.com/94508142/174299867-f4bb2db2-3780-41db-b885-352243d93565.png)
+![Screenshot (241)](https://user-images.githubusercontent.com/94508142/174304169-81f831da-ab46-461a-bea1-8456fca58c4d.png)
+
+### EE Configuration
+![Screenshot (237)](https://user-images.githubusercontent.com/94508142/174304379-95bbefc0-1364-4cca-a57f-f1dbc53167aa.png)
+![Screenshot (242)](https://user-images.githubusercontent.com/94508142/174304412-a4259cb1-30a6-4f5c-b2be-fe16beedddff.png)
+
+
 
 
 ### RESULTS :  
