@@ -47,7 +47,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 X=0.3
 Y=0.519615
 Z=0.299615
-![Screenshot (231)](https://user-images.githubusercontent.com/94508142/174299655-2eeea460-8d3f-4c19-8a17-dfdd5bbe118d.png)
+
 
  
  
