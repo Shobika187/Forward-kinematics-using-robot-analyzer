@@ -44,9 +44,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 ### SIMULATION 
-X=0.3
-Y=0.519615
-Z=0.299615
+
 
 
  
@@ -56,7 +54,7 @@ Z=0.299615
  
  
  ### PLOT 
- ![Screenshot (232)](https://user-images.githubusercontent.com/94508142/174299831-0d1895da-d13e-4961-b424-10479fdecb32.png)
+
 ![Screenshot (235)](https://user-images.githubusercontent.com/94508142/174299867-f4bb2db2-3780-41db-b885-352243d93565.png)
 
 
