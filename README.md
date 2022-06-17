@@ -69,5 +69,5 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 
 ### RESULTS :  
-Forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles is analysed succesfully
+ The Forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles is analysed succesfully
 
